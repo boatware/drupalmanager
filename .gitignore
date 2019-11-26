@@ -1,0 +1,6 @@
+# Ignore every file that ends in a tilde
+*~
+
+# Ignore any backup or test file
+*.bak
+*.test.*
